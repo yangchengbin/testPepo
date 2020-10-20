@@ -20,3 +20,4 @@ AIEAxg8+I7JEYHH5fdPiGYLaU3mONmR4pr8e4tc4J7fk+JPR4etofNxQ9ZSKLcAY
 OVEGeHnjgPlhHD3V98KZnk923grjp8Qcq0Oz5CJQHhYQM1rQ+KWLHWwDMSCblfr9
 1ue4mIA+s/WusIjYKEdauK1sjGcahZdeo+AaAPaLoas2f+Q=
 Private-MAC: 58292f4b8470669144b9a7afe6ddd112e122b5e5
+git config --global user.email "826582787@qq.com"
